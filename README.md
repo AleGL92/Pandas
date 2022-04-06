@@ -12,3 +12,5 @@ The different parts explained in the code are:
   5. Grouping and sorting, to count or agregate in a similar way to SQL.
   6. Data types and dealing with missing values.
   7. Renaming and combining different CSV files.
+
+There's also another test I took, to practise dictionaries in Python.
